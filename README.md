@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Antonisk1999
 - 👀 I’m interested in Mathematics, Economics and Data science.
-- 🌱 I’m currently learning python and tableau.
+- 🌱 I’m currently learning SQL and Python.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me Linkedin: https://www.linkedin.com/in/antonis-karaolis-0b78541a4/
 - [![@antonisk1999's Holopin board](https://holopin.me/antonisk1999)](https://holopin.io/@antonisk1999)
