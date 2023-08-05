@@ -23,7 +23,6 @@ Here's a list of tools and languages I often use:
 - **Spam Classification:** Implemented a machine learning model to classify and filter out spam emails. Used techniques such as natural language processing, feature extraction, and model training and validation to achieve high accuracy.
 - **Forex Market Analysis:** A project where I applied predictive models to forex data for price trend forecasting.
 
-
 ## 🌐 Let's Connect!
 Feel free to reach out if you're interested in a project, collaboration, or just a chat. 
 
@@ -31,6 +30,8 @@ Feel free to reach out if you're interested in a project, collaboration, or just
 - [Email](mailto:antoniskaraolis99@gmail.com)
 
 ## 📚 Currently Learning
+- Advanced techniques in Data Visualization
+- Deep dive into SQL and database management
 - Deep Learning Techniques and Neural Networks
 - Time Series Analysis and Forecasting
 - Natural Language Processing (NLP)
