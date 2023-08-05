@@ -12,7 +12,7 @@ Here's a list of tools and languages I often use:
 - **Version Control:** GitHub
 
 ## 🎯 Current Goals
--Master the art of data visualization using Tableau and Python. I am fascinated by the ability to tell a story through data and make complex information understandable.
+- Master the art of data visualization using Tableau and Python. I am fascinated by the ability to tell a story through data and make complex information understandable.
 - Become proficient in SQL. Understanding and manipulating databases is a crucial skill for any data analyst and I am committed to mastering it.
 - Deepen my understanding of Machine Learning and AI techniques.
 - Build a portfolio of data science projects on my GitHub.
