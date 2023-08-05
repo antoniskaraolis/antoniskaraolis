@@ -27,8 +27,8 @@ Here's a list of tools and languages I often use:
 ## 🌐 Let's Connect!
 Feel free to reach out if you're interested in a project, collaboration, or just a chat. 
 
-- [LinkedIn] https://www.linkedin.com/in/antonis-karaolis-0b78541a4/
-- [Email] antoniskaraolis99@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/antonis-karaolis-0b78541a4/)
+- [Email](antoniskaraolis99@gmail.com)
 
 ## 📚 Currently Learning
 - Deep Learning Techniques and Neural Networks
