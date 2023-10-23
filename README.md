@@ -19,10 +19,9 @@ Here's a list of tools and languages I often use:
 
 ## 📊 My Latest Projects
 
-- **Stock Price Forecasting:** Utilized the ARIMA model to predict future stock prices, demonstrating proficiency in time series analysis and financial data interpretation.
-- **Spam Classification:** Implemented a machine learning model to classify and filter out spam emails. Used techniques such as natural language processing, feature extraction, and model training and validation to achieve high accuracy.
-- **Forex Market Analysis:** A project where I applied predictive models to forex data for price trend forecasting.
-
+- [**Stock Price Forecasting:**](https://github.com/antoniskaraolis/ARIMA-Model-Stock-Price-Prediction) Utilized the ARIMA model to predict future stock prices, demonstrating proficiency in time series analysis and financial data interpretation.
+- [**Spam Classification:**](https://github.com/antoniskaraolis/Spam-Classification---Machine-Learning) Implemented a machine learning model to classify and filter out spam emails. Used techniques such as natural language processing, feature extraction, and model training and validation to achieve high accuracy.
+- 
 ## 🌐 Let's Connect!
 Feel free to reach out if you're interested in a project, collaboration, or just a chat. 
 
